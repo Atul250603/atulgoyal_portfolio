@@ -132,7 +132,7 @@ input::-webkit-inner-spin-button {
     z-index: 2;
     border-radius: 0 0 0 90%;
     display: none;
-    background: linear-gradient(#64b3f4,#c2e59c);
+    background: linear-gradient(#64b3f4b6,#c2e59cb6);
     box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.2);
 }
 @keyframes bringIn{
