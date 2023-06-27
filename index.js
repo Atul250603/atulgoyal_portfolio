@@ -266,7 +266,7 @@ document
           "PayBuddy is a platform where you can keep a note of all of your transactions like how much you owe someone and how much they owe you and along with this there is a also a bill splitter integrated in this platform.<br><mark>Technologies Used - ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, Bootstrap</mark>";
         projectImg1 = "public/payBuddy1.png";
         projectImg2 = "public/payBuddy2.png";
-        projectLink = "https://github.com/Atul250603/PayBuddy/";
+        projectLink = "https://paybuiddy-backend-q2a6.vercel.app/";
       } else if (parentId === "item3") {
         projectHeading = "TicTacToe";
         projectDescription =
