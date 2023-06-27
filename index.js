@@ -273,7 +273,7 @@ document
           "TicTacToe is a platform where you can play tic tac toe with your friends and relive the old memories. <br><mark>Technologies Used - HTML, CSS, Javascript</mark>";
         projectImg1 = "public/tictactoe1.png";
         projectImg2 = "public/tictactoe2.png";
-        projectLink = "http://tittattoe.000webhostapp.com/";
+        projectLink = "https://atul250603.github.io/tictactoe/";
       } else {
         projectHeading = "Space Website";
         projectDescription =
