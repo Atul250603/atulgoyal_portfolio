@@ -259,7 +259,7 @@ document
           "Food Express Is a food delivery website with all the necessary functions integrated that are needed in a website of this kind.<br><mark>Technologies Used - HTML, CSS, Javascript, PHP, MYSQL</mark>";
         projectImg1 = "public/foodExpress1.png";
         projectImg2 = "public/foodExpress2.png";
-        projectLink = "http://foodexpress.42web.io/";
+        projectLink = "https://fooodexpresss.000webhostapp.com/";
       } else if (parentId === "item2") {
         projectHeading = "PayBuddy";
         projectDescription =
